@@ -1,12 +1,10 @@
-<img align="left" height="100" src="https://avatars.githubusercontent.com/u/68913099?v=4"  />
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Masu-Baumgartner.Masu-Baumgartner&left_color=slategray"  />
 
 ###
 
 <h3 align="left">Hey hey 👀</h2>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Masu-Baumgartner.Masu-Baumgartner&left_color=slategray"  />
 
 ###
 
